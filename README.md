@@ -20,3 +20,7 @@ Este projeto é uma simulação de tráfego usando Pygame que simula o comportam
 2. Instale o Pygame usando pip, se ainda não o fez:
    ```bash
    pip install pygame
+
+
+## Iniciar codigo 
+1. python .\simulation.py 

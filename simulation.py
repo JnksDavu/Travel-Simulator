@@ -16,7 +16,7 @@ nextGreen = (currentGreen+1)%noOfSignals    # Indica qual sinal ficará verde em
 currentYellow = 0   # Indicates whether yellow signal is on or off 
 
 speeds = {'car':2.25, 'bus':1.8, 'truck':1.8, 'bike':2.5}  # Indica se o sinal amarelo está ligado ou desligado
-
+ 
 # Coordenadas de partida dos veículos
 x = {'right':[0,0,0], 'down':[755,727,697], 'left':[1400,1400,1400], 'up':[602,627,657]}    
 y = {'right':[348,370,398], 'down':[0,0,0], 'left':[498,466,436], 'up':[800,800,800]}
